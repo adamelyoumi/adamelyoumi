@@ -6,7 +6,7 @@
 <br/>
 
 <a href="http://adamelyoumi.com/">
-    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-adamelyoumi.com-red?style=flat-square">
 </a>  
 <a href="http://adamelyoumi.com/resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
