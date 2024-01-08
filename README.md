@@ -31,7 +31,7 @@
 
 * 🎓 Graduated from @ [Ecole Centrale de Nantes](https://www.ec-nantes.fr/) in Applied Mathematics (MSc) and @ [Cranfield University](https://www.cranfield.ac.uk/) in Applied Artificial Intelligence (MSc). 
 
-* Looking for internships in AI and/or CySec.
+* 🔎 Looking for internships in AI and/or CySec.
 
 
 <details>
